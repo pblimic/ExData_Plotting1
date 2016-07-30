@@ -2,7 +2,7 @@
 
 #setup working directory
 getwd()
-setwd("C:\\Users\\mli\\Documents\\Personal\\Training\\Exploratory Graphs\\Assignment1")
+#setwd("C:\\Users\\mli\\Documents\\Personal\\Training\\Exploratory Graphs\\Assignment1")
 
 
 elc<-read.table("household_power_consumption.txt", header = TRUE, sep = ";")
